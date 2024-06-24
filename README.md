@@ -1,28 +1,4 @@
-# componentes-vue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
+# DESAFIO COMPONENTES VUEJS
 ## Descripción
 Este proyecto es una aplicación Vue.js que simula una cédula de identidad chilena, mostrando los datos personales de un usuario ficticio, en este caso, Elon Musk. La aplicación está diseñada para visualizarse en un entorno web y presenta la información de una manera estilizada y estructurada.
 
@@ -53,3 +29,30 @@ Estilos</li>
 Alinear y centrar el contenido.
 Estilizar la cédula de identidad.
 Formatear y distribuir la información de manera clara y ordenada.
+
+## componentes-vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
